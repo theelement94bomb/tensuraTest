@@ -1,9 +1,12 @@
 {
-    "names": [
-      {
-        "id": 1,
-        "baseName": "Veldora",
-        "otherNames": ["Tsundere Dragon", "Veldo-kun"]
-      }
+    "nameList": [
+        {
+            "id": 1,
+            "names": ["Veldora", "Tsundere Dragon", "Veldo-kun"]
+        }
+        {
+            "id":2,
+            "names": ["Gabil", "Gabiru"]
+        }
     ]
 }
